@@ -1,0 +1,26 @@
+body{
+    background-color: #102542;
+}
+h1 {
+    text-align: center;
+    font-size: 4rem;
+    color: #FFADC6;
+}
+
+.counter__value {
+    width: 70%;
+    height: 15rem;
+    text-align: center;
+    font-size: 6rem;
+    font-weight: 800;
+     background: none;
+     color: rgb(37, 35, 35);
+     background-color: white;
+     border-bottom: 1px solid black;
+}
+
+
+
+
+
+
